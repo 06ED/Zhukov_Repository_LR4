@@ -9,7 +9,9 @@ void enter_a() {}
 
 void enter_b() {}
 
-void get_modulo() {}
+void get_modulo() {
+    cout << a % b << endl;
+}
 
 void get_division() {}
 
