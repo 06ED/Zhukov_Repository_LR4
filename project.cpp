@@ -11,7 +11,9 @@ void enter_b() {}
 
 void get_modulo() {}
 
-void get_division() {}
+void get_division() {
+    cout << a / b << endl;
+}
 
 
 struct MenuItem
