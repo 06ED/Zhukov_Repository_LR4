@@ -5,7 +5,10 @@
 
 using namespace std;
 
-void enter_a() {}
+void enter_a() {
+    cout << "Введите a: " << endl;
+    cin >> a;
+}
 
 void enter_b() {}
 
