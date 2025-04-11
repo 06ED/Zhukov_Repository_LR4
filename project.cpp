@@ -19,7 +19,9 @@ void get_modulo() {
     cout << a % b << endl;
 }
 
-void get_division() {}
+void get_division() {
+    cout << a / b << endl;
+}
 
 
 struct MenuItem
