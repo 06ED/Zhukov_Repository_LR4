@@ -15,7 +15,9 @@ void enter_b() {
     cin >> b;
 }
 
-void get_modulo() {}
+void get_modulo() {
+    cout << a % b << endl;
+}
 
 void get_division() {}
 
