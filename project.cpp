@@ -10,7 +10,10 @@ void enter_a() {
     cin >> a;
 }
 
-void enter_b() {}
+void enter_b() {
+    cout << "Введите b: " << endl;
+    cin >> b;
+}
 
 void get_modulo() {}
 
